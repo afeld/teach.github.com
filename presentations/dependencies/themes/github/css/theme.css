@@ -209,6 +209,9 @@ h3 {
   opacity: 1;
   position: absolute; }
 
+.reveal .section .social-icon {
+  margin-right: 10px; }
+
 .slide {
   background: none;
   border: none;
